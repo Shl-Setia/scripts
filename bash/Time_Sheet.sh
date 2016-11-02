@@ -1,0 +1,1 @@
+osascript -e 'display notification with title "Time Sheet and Work Done List"'
